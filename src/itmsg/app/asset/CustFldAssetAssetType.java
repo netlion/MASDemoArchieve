@@ -15,6 +15,5 @@ public class CustFldAssetAssetType extends FldAssetAssetType {
     public void initValue() throws MXException, RemoteException {
         super.initValue();
         System.out.println("Called CustFldAssetAssetType!!!!!!!!");
-
     }
 }
